@@ -3,7 +3,7 @@
 An interactive Power BI dashboard comparing five suppliers on delivery speed, quality, compliance and cost savings, using the Procurement KPI Analysis Dataset (Kaggle).
 
 ## Dashboard
-![Dashboard](procurement_dashboard.pngg.png)
+![Dashboard](Procurment_dashboard.pngg.png)
 
 ## Questions answered
 1. Which suppliers deliver fastest?
